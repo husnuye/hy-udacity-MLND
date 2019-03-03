@@ -1,2 +1,2 @@
-# hy-udacity-MLND
-supervised learning
+# deneme
+# deneme
